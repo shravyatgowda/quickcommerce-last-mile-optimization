@@ -1,0 +1,5 @@
+scenario,max_extra_delay_min,batches_formed,orders_batched_pct,avg_cost_per_order_inr,avg_delivery_time_min,cost_change_pct,time_change_pct
+no_batching,0.0,0,0.0,31.17,7.94,0.0,0.0
+batch_max_extra_3min,3.0,102,51.0,24.88,8.23,-20.2,3.7
+batch_max_extra_6min,6.0,138,69.0,22.85,8.67,-26.7,9.2
+batch_max_extra_10min,10.0,157,78.5,21.97,9.08,-29.5,14.4
